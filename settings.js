@@ -84,9 +84,9 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['923150513638']
+global.owner = ['923255427063']
 global.ownertag = '923150513638' //ur tag number
-global.botname = '𝗧𝗥𝗢𝗫𝗜𝗡 𝗕𝗢𝗧 𝗠𝗗 V4' //ur bot name
+global.botname = '𝗨𝗭𝗜  𝗕𝗢𝗧 𝗠𝗗 V4' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
@@ -115,8 +115,8 @@ global.packname = "UZAIR^_^))  ۰ .
 
 
  
-  ^\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+  ^𝛯𝑹𝑹𝑶𝑹 𝜹𝑸𝑼𝛥𝑫 🇵🇰👑" //ur sticker watermark packname
+global.author = "𝐔𝚭𝚰 3𝚾 𝚩𝚵𝚴^_^))•" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
